@@ -1,0 +1,1 @@
+hex color picker is a website to choose a color and put the code in your color or color palette
